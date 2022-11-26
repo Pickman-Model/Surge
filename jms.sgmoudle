@@ -1,5 +1,5 @@
 [Panel]
-PanelB = title="Panel Title",content="Panel Content\nSecondLine",style=info,script-name=panel
+PanelB = title="搬瓦工机场流量",content="Panel Content\nSecondLine",style=info,script-name=panel
 
 [Script]
 panel = script-path=https://gist.githubusercontent.com/Pickman-Model/a29c504b30fa6f2ea3c5804b8d9b209a/raw/7f856512fa0c960bcb1265729e4701c0d94a0fdd/jms.js,type=generic
