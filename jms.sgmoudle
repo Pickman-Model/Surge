@@ -1,0 +1,5 @@
+[Panel]
+PanelB = title="Panel Title",content="Panel Content\nSecondLine",style=info,script-name=panel
+
+[Script]
+panel = script-path=panel.js,type=generic
